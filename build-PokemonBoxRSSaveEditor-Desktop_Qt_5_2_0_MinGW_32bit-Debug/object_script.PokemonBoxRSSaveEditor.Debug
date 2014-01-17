@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\iconbutton.o
+./debug\pokemon.o
+./debug\miscfunctions.o
+./debug\saveblock.o
+./debug\boxchangebutton.o
+./debug\gbasaveblock.o
+./debug\moc_mainwindow.o
+./debug\moc_iconbutton.o
+./debug\moc_boxchangebutton.o
+);

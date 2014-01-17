@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\iconbutton.o
+./release\pokemon.o
+./release\miscfunctions.o
+./release\saveblock.o
+./release\boxchangebutton.o
+./release\gbasaveblock.o
+./release\moc_mainwindow.o
+./release\moc_iconbutton.o
+./release\moc_boxchangebutton.o
+);
